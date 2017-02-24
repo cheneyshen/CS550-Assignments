@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1445385738 source:/home/fei/Dropbox/CS550S3/client.c
+	"common.h"
+	<netdb.h>
+
+1445385753 /home/fei/Dropbox/CS550S3/common.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<time.h>
+	<signal.h>
+
+1445575550 source:/home/fei/Dropbox/CS550S3/csHash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"csHash.h"
+	<sys/time.h>
+	<pthread.h>
+	<semaphore.h>
+
+1445573432 /home/fei/Dropbox/CS550S3/csHash.h
+	<stddef.h>
+
+1445393980 source:/home/fei/Dropbox/CS550S3/demo.c
+	<stdio.h>
+	<stdlib.h>
+
+1442903427 source:/home/fei/Dropbox/CS550S3/server.c
+	"common.h"
+	<sys/time.h>
+
+1445787799 source:/home/fei/Dropbox/CS550S3/imgs.c
+	<sys/socket.h>
+	<sys/types.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1445725199 source:/home/fei/Dropbox/CS550S3/lstat.c
+	<stdio.h>
+	<sys/stat.h>
+
