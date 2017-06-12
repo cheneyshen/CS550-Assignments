@@ -1,0 +1,10 @@
+-> single_insert 100000 docs:
+insert 10K time: 3643.0561 sec
+insert time / doc: 36.431 ms
+insert single time: 4761.78 ms
+find 10K time: 2152.4023 sec
+find time / doc: 21.524 ms
+find single time: 1440.577 ms
+delete 10K time: 3174.4014 sec
+delete time / doc: 31.744 ms
+delete single time: 1768.215 ms

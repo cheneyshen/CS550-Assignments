@@ -1,0 +1,25 @@
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+PING: PONG
+MAX write in 16 index servers: 0.036163 sec
+MIN write in 16 index servers: 0.000116 sec
+MAX read in 16 index servers: 0.036878 sec
+MIN read in 16 index servers: 0.000100 sec
+MAX delete in 16 index servers: 0.038744 sec
+MIN delete in 16 index servers: 0.000109 sec
+SET 1000100000 files in 16 index servers: 401.666925 sec
+GET 1000100000 files in 16 index servers: 360.599377 sec
+DEL 1000100000 files in 16 index servers: 373.870246 sec
